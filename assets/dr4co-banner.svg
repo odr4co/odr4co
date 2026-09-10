@@ -1,40 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
-  <title id="title">DR4CO — Menos barulho. Mais jogo.</title>
-  <desc id="desc">Banner pessoal de Dr4co em preto, grafite, vermelho e branco.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#05080D"/>
-      <stop offset="0.55" stop-color="#0A0E14"/>
-      <stop offset="1" stop-color="#12070A"/>
-    </linearGradient>
-    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FF1835"/>
-      <stop offset="1" stop-color="#B90F2B"/>
-    </linearGradient>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="16"/>
-    </filter>
-  </defs>
-  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
-  <circle cx="1060" cy="190" r="150" fill="#D3122F" opacity=".08" filter="url(#glow)"/>
-  <path d="M0 320 L210 110 L340 110 L175 275 L275 275 L195 360 Z" fill="#D3122F" opacity=".12"/>
-  <path d="M60 300 L190 170" stroke="#FF1835" stroke-width="4" opacity=".55"/>
-  <path d="M78 322 L245 155" stroke="#7E0A1E" stroke-width="2" opacity=".65"/>
-
-  <g transform="translate(112 92)">
-    <path d="M0 28 H160 L134 58 H85 L62 82 H130 L95 111 H52 L38 180 H0 L31 58 H-8 Z" fill="url(#red)"/>
-    <path d="M78 50 L113 72 L96 84 L126 95 L106 111 L132 125 L108 141 L83 127 L65 108 L78 92 L62 82 Z" fill="#05080D"/>
-  </g>
-
-  <text x="325" y="162" fill="#F7F8FA" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" font-style="italic" letter-spacing="2">DR4CO</text>
-  <text x="330" y="215" fill="#B9BDC5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400">Menos barulho. Mais jogo.</text>
-  <rect x="330" y="238" width="78" height="5" rx="2.5" fill="#E1062A"/>
-
-  <g transform="translate(874 112)">
-    <text x="0" y="0" fill="#F3F4F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2">DEVELOPER · CREATOR</text>
-    <text x="0" y="42" fill="#9BA1AA" font-family="Arial, Helvetica, sans-serif" font-size="18">Construindo ferramentas, conteúdo</text>
-    <text x="0" y="70" fill="#9BA1AA" font-family="Arial, Helvetica, sans-serif" font-size="18">e produtos para problemas reais.</text>
-    <text x="0" y="126" fill="#E1062A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">BUILDING @ ZOSMA LABS</text>
-  </g>
-  <rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#252B33"/>
-</svg>
+<title id="title">DR4CO — Menos barulho. Mais jogo.</title><desc id="desc">Banner pessoal Dr4co com o símbolo original do dragão.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#05080D"/><stop offset="0.58" stop-color="#0A0E14"/><stop offset="1" stop-color="#12070A"/></linearGradient><linearGradient id="brandRed" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F01835"/><stop offset="1" stop-color="#C90F2C"/></linearGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="18"/></filter></defs>
+<rect width="1280" height="360" rx="24" fill="url(#bg)"/><circle cx="1080" cy="190" r="150" fill="#D3122F" opacity=".07" filter="url(#glow)"/>
+<!-- Símbolo Dr4co redesenhado a partir da marca fornecida pelo autor -->
+<g transform="translate(40,-42) scale(.82)" fill="url(#brandRed)"><path d="M 321 248 L 326 264 L 325 265 L 317 258 L 316 259 L 323 271 L 335 281 L 345 285 L 352 286 Z"/><path d="M 71 101 L 72 102 L 68 118 L 68 125 L 65 135 L 65 142 L 61 157 L 61 165 L 58 175 L 58 182 L 56 187 L 56 192 L 119 192 L 120 193 L 116 211 L 117 213 L 113 228 L 113 235 L 110 246 L 110 253 L 106 268 L 106 275 L 102 290 L 103 292 L 99 307 L 100 310 L 95 329 L 95 337 L 92 347 L 93 350 L 89 365 L 89 371 L 85 387 L 86 389 L 82 404 L 82 410 L 121 410 L 122 408 L 122 399 L 123 398 L 123 386 L 124 385 L 127 343 L 128 342 L 130 346 L 130 351 L 137 384 L 139 363 L 144 344 L 158 313 L 175 289 L 195 270 L 167 287 L 140 308 L 115 332 L 101 348 L 94 358 L 92 359 L 91 358 L 101 334 L 120 302 L 135 283 L 157 261 L 163 257 L 146 257 L 145 256 L 163 240 L 179 230 L 193 224 L 139 214 L 136 212 L 167 205 L 189 203 L 190 202 L 203 202 L 204 201 L 228 202 L 245 206 L 236 189 L 238 188 L 254 199 L 254 197 L 234 140 L 235 137 L 302 222 L 303 222 L 303 205 L 305 202 L 315 214 L 315 192 L 316 191 L 316 184 L 317 183 L 318 184 L 326 207 L 339 231 L 358 257 L 381 279 L 371 289 L 378 298 L 394 314 L 415 331 L 408 336 L 385 359 L 377 365 L 359 375 L 345 380 L 344 379 L 350 369 L 353 356 L 352 344 L 347 331 L 343 325 L 336 318 L 330 315 L 308 308 L 302 302 L 300 297 L 300 292 L 297 300 L 297 308 L 299 316 L 316 347 L 318 354 L 318 360 L 328 356 L 335 350 L 338 345 L 339 346 L 339 351 L 334 364 L 328 372 L 321 378 L 306 384 L 292 384 L 285 382 L 272 374 L 280 372 L 287 368 L 292 363 L 297 353 L 297 343 L 293 334 L 286 327 L 274 322 L 275 321 L 292 319 L 290 317 L 278 310 L 259 305 L 242 305 L 233 307 L 217 314 L 224 312 L 245 312 L 254 314 L 260 317 L 255 319 L 240 321 L 247 321 L 254 323 L 264 328 L 270 333 L 270 335 L 261 349 L 258 360 L 258 370 L 260 377 L 263 382 L 273 391 L 294 400 L 315 405 L 331 402 L 357 392 L 384 376 L 403 359 L 418 340 L 426 327 L 442 292 L 452 258 L 454 241 L 455 240 L 455 232 L 456 231 L 456 199 L 455 198 L 453 182 L 448 167 L 438 148 L 431 139 L 418 127 L 406 119 L 387 110 L 375 106 L 347 100 L 72 100 Z"/></g>
+<text x="390" y="160" fill="#F7F8FA" font-family="Arial,Helvetica,sans-serif" font-size="78" font-weight="800" font-style="italic" letter-spacing="2">DR4CO</text><text x="395" y="214" fill="#B9BDC5" font-family="Arial,Helvetica,sans-serif" font-size="28">Menos barulho. Mais jogo.</text><rect x="395" y="238" width="78" height="5" rx="2.5" fill="#E1062A"/>
+<g transform="translate(880 112)"><text x="0" y="0" fill="#F3F4F6" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" letter-spacing="2">DEVELOPER · CREATOR</text><text x="0" y="42" fill="#9BA1AA" font-family="Arial,Helvetica,sans-serif" font-size="18">Construindo ferramentas, conteúdo</text><text x="0" y="70" fill="#9BA1AA" font-family="Arial,Helvetica,sans-serif" font-size="18">e produtos para problemas reais.</text><text x="0" y="126" fill="#E1062A" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700">BUILDING @ ZOSMA LABS</text></g><rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#252B33"/></svg>
