@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">DR4CO — Menos barulho. Mais jogo.</title>
+  <desc id="desc">Banner pessoal de Dr4co em preto, grafite, vermelho e branco.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080D"/>
+      <stop offset="0.55" stop-color="#0A0E14"/>
+      <stop offset="1" stop-color="#12070A"/>
+    </linearGradient>
+    <linearGradient id="red" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF1835"/>
+      <stop offset="1" stop-color="#B90F2B"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <circle cx="1060" cy="190" r="150" fill="#D3122F" opacity=".08" filter="url(#glow)"/>
+  <path d="M0 320 L210 110 L340 110 L175 275 L275 275 L195 360 Z" fill="#D3122F" opacity=".12"/>
+  <path d="M60 300 L190 170" stroke="#FF1835" stroke-width="4" opacity=".55"/>
+  <path d="M78 322 L245 155" stroke="#7E0A1E" stroke-width="2" opacity=".65"/>
+
+  <g transform="translate(112 92)">
+    <path d="M0 28 H160 L134 58 H85 L62 82 H130 L95 111 H52 L38 180 H0 L31 58 H-8 Z" fill="url(#red)"/>
+    <path d="M78 50 L113 72 L96 84 L126 95 L106 111 L132 125 L108 141 L83 127 L65 108 L78 92 L62 82 Z" fill="#05080D"/>
+  </g>
+
+  <text x="325" y="162" fill="#F7F8FA" font-family="Arial, Helvetica, sans-serif" font-size="78" font-weight="800" font-style="italic" letter-spacing="2">DR4CO</text>
+  <text x="330" y="215" fill="#B9BDC5" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="400">Menos barulho. Mais jogo.</text>
+  <rect x="330" y="238" width="78" height="5" rx="2.5" fill="#E1062A"/>
+
+  <g transform="translate(874 112)">
+    <text x="0" y="0" fill="#F3F4F6" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="2">DEVELOPER · CREATOR</text>
+    <text x="0" y="42" fill="#9BA1AA" font-family="Arial, Helvetica, sans-serif" font-size="18">Construindo ferramentas, conteúdo</text>
+    <text x="0" y="70" fill="#9BA1AA" font-family="Arial, Helvetica, sans-serif" font-size="18">e produtos para problemas reais.</text>
+    <text x="0" y="126" fill="#E1062A" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">BUILDING @ ZOSMA LABS</text>
+  </g>
+  <rect x="1" y="1" width="1278" height="358" rx="23" fill="none" stroke="#252B33"/>
+</svg>
