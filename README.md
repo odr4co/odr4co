@@ -50,7 +50,7 @@ Na **1Byte Labs**, desenvolvo produtos independentes para produção, apresenta�
 | **Fundos por Culto** | Automação para SPresenter | [Ver projeto](https://github.com/1bytelabs/fundos-por-culto-spresenter) |
 | **Importador de Vídeos** | Mídia e integração com SPresenter | [Ver projeto](https://github.com/1bytelabs/importador-videos-spresenter) |
 | **Fundos Para Letras** | Personalização de letras no SPresenter | [Ver projeto](https://github.com/1bytelabs/fundos-para-letras-spresenter) |
-| **1Byte Labs Transmitter** | Transmissão NDI portátil | [Ver projeto](https://github.com/1bytelabs/zosma-transmitter) |
+| **1Byte Labs Transmitter** | Transmissão NDI portátil | [Ver projeto](https://github.com/1bytelabs/1bytelabs-transmitter) |
 | **Multitrack Tools** | Playback ao vivo para REAPER | [Conhecer](https://github.com/1bytelabs) |
 
 ---
