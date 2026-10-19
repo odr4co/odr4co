@@ -9,8 +9,8 @@
 Crio ferramentas, conteúdo e produtos para transformar problemas reais em soluções simples e úteis.
 
 [![YouTube](https://img.shields.io/badge/YOUTUBE-0B0D10?style=for-the-badge&logo=youtube&logoColor=E1062A)](https://www.youtube.com/@dr4cotv)
-[![Zosma Labs](https://img.shields.io/badge/ZOSMA_LABS-0B0D10?style=for-the-badge&logo=github&logoColor=21D4FD)](https://github.com/zosmalabs)
-[![Site](https://img.shields.io/badge/ZOSMA.COM.BR-0B0D10?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://zosma.com.br)
+[![1Byte Labs](https://img.shields.io/badge/1Byte_Labs-0B0D10?style=for-the-badge&logo=github&logoColor=21D4FD)](https://github.com/1bytelabs)
+[![Site](https://img.shields.io/badge/1BYTE_LABS-0B0D10?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://github.com/1bytelabs)
 
 </div>
 
@@ -24,13 +24,13 @@ Meu foco é simples: **menos complexidade, mais resultado**.
 
 ---
 
-## Building @ Zosma Labs
+## Building @ 1Byte Labs
 
-<a href="https://github.com/zosmalabs"><img src="./assets/zosma-card.svg" alt="Building at Zosma Labs" width="100%" /></a>
+<a href="https://github.com/1bytelabs"><img src="./assets/1bytelabs-card.svg" alt="Building at 1Byte Labs" width="100%" /></a>
 
-Na **Zosma Labs**, desenvolvo produtos independentes para produção, apresentações, mídia e workflows técnicos — de plugins integrados a aplicações completas.
+Na **1Byte Labs**, desenvolvo produtos independentes para produção, apresentações, mídia e workflows técnicos — de plugins integrados a aplicações completas.
 
-[**Conhecer a Zosma Labs →**](https://github.com/zosmalabs)
+[**Conhecer a 1Byte Labs →**](https://github.com/1bytelabs)
 
 ---
 
@@ -47,11 +47,11 @@ Na **Zosma Labs**, desenvolvo produtos independentes para produção, apresenta�
 
 | Projeto | Área | Link |
 | --- | --- | --- |
-| **Fundos por Culto** | Automação para SPresenter | [Ver projeto](https://github.com/zosmalabs/fundos-por-culto-spresenter) |
-| **Importador de Vídeos** | Mídia e integração com SPresenter | [Ver projeto](https://github.com/zosmalabs/importador-videos-spresenter) |
-| **Fundos Para Letras** | Personalização de letras no SPresenter | [Ver projeto](https://github.com/zosmalabs/fundos-para-letras-spresenter) |
-| **Zosma Transmitter** | Transmissão NDI portátil | [Ver projeto](https://github.com/zosmalabs/zosma-transmitter) |
-| **Multitrack Tools** | Playback ao vivo para REAPER | [Conhecer](https://zosma.com.br/multitrack-tools/) |
+| **Fundos por Culto** | Automação para SPresenter | [Ver projeto](https://github.com/1bytelabs/fundos-por-culto-spresenter) |
+| **Importador de Vídeos** | Mídia e integração com SPresenter | [Ver projeto](https://github.com/1bytelabs/importador-videos-spresenter) |
+| **Fundos Para Letras** | Personalização de letras no SPresenter | [Ver projeto](https://github.com/1bytelabs/fundos-para-letras-spresenter) |
+| **1Byte Labs Transmitter** | Transmissão NDI portátil | [Ver projeto](https://github.com/1bytelabs/zosma-transmitter) |
+| **Multitrack Tools** | Playback ao vivo para REAPER | [Conhecer](https://github.com/1bytelabs) |
 
 ---
 
@@ -59,6 +59,6 @@ Na **Zosma Labs**, desenvolvo produtos independentes para produção, apresenta�
 
 ### Menos barulho. Mais jogo.
 
-**Dr4co** · Developer · Creator · Zosma Labs
+**Dr4co** · Developer · Creator · 1Byte Labs
 
 </div>
