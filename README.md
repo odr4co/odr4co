@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/dr4co-banner.svg" alt="DR4CO — Menos barulho. Mais jogo." width="100%" />
+<img src="./assets/dr4co-banner-1bytelabs.svg" alt="DR4CO — Menos barulho. Mais jogo." width="100%" />
 
 <br />
 
