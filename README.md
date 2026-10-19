@@ -10,7 +10,7 @@ Crio ferramentas, conteúdo e produtos para transformar problemas reais em solu�
 
 [![YouTube](https://img.shields.io/badge/YOUTUBE-0B0D10?style=for-the-badge&logo=youtube&logoColor=E1062A)](https://www.youtube.com/@dr4cotv)
 [![1Byte Labs](https://img.shields.io/badge/1Byte_Labs-0B0D10?style=for-the-badge&logo=github&logoColor=21D4FD)](https://github.com/1bytelabs)
-[![Site](https://img.shields.io/badge/1BYTE_LABS-0B0D10?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://github.com/1bytelabs)
+[![Site](https://img.shields.io/badge/1BYTELABS.COM.BR-0B0D10?style=for-the-badge&logo=googlechrome&logoColor=ffffff)](https://1bytelabs.com.br)
 
 </div>
 
@@ -62,3 +62,7 @@ Na **1Byte Labs**, desenvolvo produtos independentes para produção, apresenta�
 **Dr4co** · Developer · Creator · 1Byte Labs
 
 </div>
+
+## Contato — 1Byte Labs
+
+[1bytelabs.com.br](https://1bytelabs.com.br) · [contato@1bytelabs.com.br](mailto:contato@1bytelabs.com.br)
